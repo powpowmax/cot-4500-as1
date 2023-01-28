@@ -8,3 +8,5 @@ For example mine will be C:\Users\stewa\PycharmProjects\cot-4500_assignment1\ven
 by running this line in command prompt it will produce the 7 desired outputs for the assignment.
 
 All of the third party packages used are found in the requirements.txt file and include the versions used for this assignment
+
+For this assignment no init.py files were used nor test_assignment_1.py because I did not need to use them and were unnecessary
