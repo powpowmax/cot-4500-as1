@@ -6,3 +6,5 @@ To run the code in command line open command prompt and then type C: pathway to 
 For example mine will be C:\Users\stewa\PycharmProjects\cot-4500_assignment1\venv\Scripts\python.exe C:\Users\stewa\PycharmProjects\cot-4500_assignment1\assignment_1.py
 
 by running this line in command prompt it will produce the 7 desired outputs for the assignment.
+
+All of the third party packages used are found in the requirements.txt file and include the versions used for this assignment
